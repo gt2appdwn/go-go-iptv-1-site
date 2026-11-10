@@ -1,0 +1,27 @@
+{
+  "name": "GO GO IPTV",
+  "short_name": "GO",
+  "description": "Watch 55,000+ channels and 200,000+ movies worldwide in 4K/8K. Free 24-hour trial and support in every language. Explore your options today.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#08080a",
+  "theme_color": "#ff6a1a",
+  "icons": [
+    {
+      "src": "assets/favicon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
